@@ -1,0 +1,2 @@
+# Gobang
+A Python Gobang.
